@@ -1,0 +1,35 @@
+/* Media queries
+ */
+@media screen and (min-width: 300px) and (max-width: 420px) {
+  .deck {
+    width: 90%;
+  }
+
+  .card {
+    height: 7rem !important;
+    width: 6.5rem !important;
+    margin-bottom: 2rem;
+  }
+
+  .score-panel {
+    width: 200px !important;
+    margin-left: 30px;
+    margin-right: 100px;
+  }
+}
+
+@media screen and (min-width: 421px) {
+	.container {
+		font-size: 22px;
+	}
+
+	.deck {
+		width: 660px;
+		height: 680px;
+	}
+  
+	.deck .card {
+		height: 125px;
+		width: 125px;
+	}
+}
