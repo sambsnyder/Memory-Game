@@ -8,3 +8,6 @@ Should be fairly straightforward setup.
 
 -Open html in preferred browser.
 
+## Misc.
+
+-I built apon the code provided by Udacity at: https://github.com/udacity/fend-project-memory-game
