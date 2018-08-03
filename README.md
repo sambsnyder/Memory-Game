@@ -6,5 +6,5 @@ Should be fairly straightforward setup.
 
 -Download to your desktop.
 
--Open html in preffered browser.
+-Open html in preferred browser.
 
